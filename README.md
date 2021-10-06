@@ -1,6 +1,7 @@
 <body>
   <div align="center">
     <h1> Hi there, I'm Muhammad Zubair Afzal👋<a href="#"></h1>
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
   </div>
 <p align="center">
   <a href="https://github.com/ZubairAfzalMughal"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Flutter+Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
